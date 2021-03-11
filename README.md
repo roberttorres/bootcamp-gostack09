@@ -12,7 +12,7 @@ Para ver de perto como isso funciona, utilize o painel de navegação abaixo par
 
 <ul>
     <li>
-        <a href="/backend"> Backend </a>
+        <a href="https://github.com/lucascprazeres/goBarber-API"> Backend </a>
     </li>    
     <li>
         <a href="/web"> Parte Web </a>
