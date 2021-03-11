@@ -22,7 +22,7 @@ Para ver de perto como isso funciona, utilize o painel de navegação abaixo par
     </li>    
 </ul>
 
-<h2> Licença </h2>
+<h2> <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"> Licença </h2>
 
 Esse projeto se encontra sob a licença <b> MIT. </b> Para mais informações, acesse o arquivo <b> LICENSE. <b/>
     
