@@ -22,9 +22,9 @@ Para ver de perto como isso funciona, utilize o painel de navegação abaixo par
     </li>    
 </ul>
 
-<h2> <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png"> Licença </h2>
+<h2> <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width = "22" height = "22" > Licença </h2>
 
-Esse projeto se encontra sob a licença <b> MIT. </b> Para mais informações, acesse o arquivo <b> LICENSE. <b/>
+Esse projeto se encontra sob a licença <b> MIT. </b> Acesse o arquivo <a href="/LICENSE"> LICENSE </a> para mais detalhes.
     
 
 <p align="center"> 
