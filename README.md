@@ -24,8 +24,7 @@ Para ver de perto como isso funciona, utilize o painel de navegação abaixo par
 
 <h2> <img src = "https://github.githubassets.com/images/icons/emoji/unicode/1f4dd.png" width = "22" height = "22" > Licença </h2>
 
-Esse projeto se encontra sob a licença <b> MIT. </b> Acesse o arquivo <a href="/LICENSE"> LICENSE </a> para mais detalhes.
-    
+Esse projeto se encontra sob a licença <b> MIT. </b> Acesse o arquivo <a href="/LICENSE"> LICENSE </a> para mais detalhes.    
 
 <p align="center"> 
     Made with ❤️ by <a href="https://www.linkedin.com/in/robert-torres1000/">Robert Torres</a>
