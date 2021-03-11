@@ -15,10 +15,10 @@ Para ver de perto como isso funciona, utilize o painel de navegação abaixo par
         <a href="https://github.com/roberttorres/GoBarber-API"> Backend </a>
     </li>    
     <li>
-        <a href="/web"> Parte Web </a>
+        <a href="https://github.com/roberttorres/GoBarber-Web/"> Parte Web </a>
     </li>    
     <li>
-        <a href="/mobile"> Parte Mobile </a>
+        <a href="https://github.com/roberttorres/GoBarber-Mobile/"> Parte Mobile </a>
     </li>    
 </ul>
 
