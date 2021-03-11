@@ -12,7 +12,7 @@ Para ver de perto como isso funciona, utilize o painel de navegação abaixo par
 
 <ul>
     <li>
-        <a href="/backend"> BackEnd </a>
+        <a href="/backend"> Backend </a>
     </li>    
     <li>
         <a href="/web"> Parte Web </a>
@@ -28,5 +28,5 @@ Esse projeto se encontra sob a licença <b> MIT. </b> Para mais informações, a
     
 
 <p align="center"> 
-    Made with  by <a href="https://www.linkedin.com/in/robert-torres1000/>Robert Torres </a>
+    Made with ❤️ by <a href="https://www.linkedin.com/in/robert-torres1000/">Robert Torres</a>
 </p>        
