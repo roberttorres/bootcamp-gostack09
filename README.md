@@ -8,7 +8,7 @@
 
 O GoBarber é o projeto principal desenvolvido durante o bootcamp Gostack, da Rocketseat, com o objetivo de desenvolver uma plataforma poderosa para conectar clientes a prestadores de serviços em barbearias. Ele abrange o backend, web e mobile, através da stack NodeJS, React e React Native.
 
-Para ver de perto como isso funciona, utilize o painel de navegação abaixo para acessar os readmes dedicados. 
+Para ver como o sistema funciona, utilize o painel de navegação abaixo para acessar os links relacionados a cada parte do sistema.
 
 <ul>
     <li>
